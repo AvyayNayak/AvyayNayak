@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Avyay</h1>
-<h3 align="center">Just a guy who's finding his way</h3>
+<h4 align="center">Just a guy who's finding his way</h4>
 
 - 🌱 I’m currently learning **Web Development**
 
