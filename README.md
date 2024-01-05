@@ -1,4 +1,4 @@
-<h1 align="justify">Hey there, I'm Avyay</h1>
+<h1 align="justify">Hey there, I'm Avyay!</h1>
 <h3 align="justify">Just a guy who's finding his way</h3>
 
 - 🌱 I’m currently learning **Web Development**
