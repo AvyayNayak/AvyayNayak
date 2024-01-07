@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/avyay-nayak-498ba6249" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw19_31qv-tudVht-shdFzkn&ust=1704739125151000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjKjqT2y4MDFQAAAAAdAAAAABAD" alt="avyay-nayak" height="30" width="40" /></a>
 <a href="https://twitter.com/avyay18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avyay18" height="30" width="40" /></a>
 <a href="https://instagram.com/avyay_nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avyay_nayak" height="30" width="40" /></a>
 </p>
