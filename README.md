@@ -1,5 +1,5 @@
 <h1 align="justify">Hey there, I'm Avyay!</h1>
-<h3 align="justify">Just a guy who's finding his way</h3>
+<h3 align="justify">Just a dude who's tryna do something for himself</h3>
 
 - 🌱 Building my way up the **Full Stack** Industry
 
