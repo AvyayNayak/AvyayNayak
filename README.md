@@ -1,7 +1,7 @@
 <h1 align="justify">Hey there, I'm Avyay!</h1>
 <h3 align="justify">Just a guy who's finding his way</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 Building my way up the **Full Stack** Industry
 
 - 📫 How to reach me **avyaynayak2@gmail.com**
 
