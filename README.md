@@ -1,7 +1,7 @@
 <h1 align="justify">Hey there, I'm Avyay!</h1>
 <h3 align="justify">Just a dude who's tryna do something for himself</h3>
 
-- 🌱 Building my way up the **Full Stack** Industry
+- 🌱 Building my way up the **MERN Stack**
 
 - 📫 How to reach me **avyaynayak2@gmail.com**
 
