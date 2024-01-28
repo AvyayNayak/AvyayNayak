@@ -3,7 +3,7 @@
 
 - 🌱 Building my way up the **MERN Stack**
 
-- 📫 How to reach me **avyaynayak2@gmail.com**
+- 📫 Here's how you can reach me 👉 **avyaynayak2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
