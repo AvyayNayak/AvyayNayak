@@ -1,9 +1,9 @@
 <h1 align="justify">Hey there, I'm Avyay!</h1>
 <h3 align="justify">Just a guy who's tryna do something for himself</h3>
 
-- 🌱 Building my way up the **MERN Stack**
+- 🌱 Getting cozy around the **MERN Stack**
 
-- 📫 Here's how you can reach me 👉 **avyaynayak2@gmail.com**
+- 📫 Hit me up @ **avyaynayak2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
